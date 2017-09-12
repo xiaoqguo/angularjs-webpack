@@ -1,0 +1,27 @@
+{
+  "name": "AngularJS-Webpack",
+  "version": "1.0.0",
+  "description": "<!doctype html> <html>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --progress --display-modules --colors --display-error-details"
+  },
+  "author": "gzm",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.6.6"
+  },
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-ui-router": "^1.0.3",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "css-loader": "^0.28.7",
+    "html-webpack-plugin": "^2.30.1",
+    "image-webpack-loader": "^3.4.2",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.5.6"
+  }
+}
